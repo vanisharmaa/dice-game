@@ -1,0 +1,33 @@
+body{
+  background-color: #000B49;
+  text-align: center;
+}
+div{
+  margin: 60px 0 30px;
+}
+.heading{
+  color: #FF7272;
+  font-family: "Pacifico", cursive;
+  font-weight: 800;
+  font-size: 7rem;
+  margin: 0;
+  text-shadow: 2px 4px 4px #000;
+}
+
+.player{
+  display: inline;
+  font-family: "Dancing Script", cursive;
+  color: #FFB5B5;
+  font-size: 2rem;;
+  padding: 0 150px;
+  text-shadow: 2px 4px 4px #000;
+}
+.dice{
+  padding: 0 50px;
+}
+footer{
+  color: #FFB5B5;
+  font-family: "Dancing Script", cursive;
+  padding-top: 90px;
+  text-shadow: 2px 4px 4px #000;
+}
